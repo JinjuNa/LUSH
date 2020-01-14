@@ -1,1 +1,1 @@
-# RUSH
+# LUSH
